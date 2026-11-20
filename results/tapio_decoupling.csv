@@ -1,0 +1,15 @@
+country,period,co2_change_%,gdp_change_%,elasticity,state
+Pakistan,1990–1995,23.949,29.958,0.799,Weak decoupling
+Pakistan,1995–2000,24.68,21.973,1.123,Expansive coupling
+Pakistan,2000–2005,23.499,39.439,0.596,Weak decoupling
+Pakistan,2005–2010,10.531,25.634,0.411,Weak decoupling
+Pakistan,2010–2015,-3.139,25.492,-0.123,Strong decoupling
+Pakistan,2015–2020,69.633,18.915,3.681,Expansive negative decoupling
+Pakistan,2020–2022,-16.248,9.718,-1.672,Strong decoupling
+China,1990–1995,31.962,42.092,0.759,Weak decoupling
+China,1995–2000,7.63,23.756,0.321,Weak decoupling
+China,2000–2005,62.14,44.522,1.396,Expansive negative decoupling
+China,2005–2010,47.236,49.47,0.955,Expansive coupling
+China,2010–2015,14.139,42.324,0.334,Weak decoupling
+China,2015–2020,8.784,31.968,0.275,Weak decoupling
+China,2020–2022,9.268,11.652,0.795,Weak decoupling

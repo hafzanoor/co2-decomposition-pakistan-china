@@ -1,0 +1,148 @@
+{
+  "fossil_co2_Mt": {
+    "Pakistan": {
+      "1990": 64.9,
+      "2022": 188.4,
+      "ratio": 2.9
+    },
+    "China": {
+      "1990": 2341.2,
+      "2022": 10769.9,
+      "ratio": 4.6
+    }
+  },
+  "lmdi_full_period_Mt": {
+    "Pakistan": {
+      "pop": 85.9,
+      "aff": 89.6,
+      "ei": -40.5,
+      "ci": -11.5,
+      "total": 123.5
+    },
+    "China": {
+      "pop": 1167.7,
+      "aff": 10293.6,
+      "ei": -1938.7,
+      "ci": -1093.9,
+      "total": 8428.7
+    }
+  },
+  "lmdi_full_period_pct_of_net": {
+    "Pakistan": {
+      "pop": 69.5,
+      "aff": 72.6,
+      "ei": -32.8,
+      "ci": -9.3
+    },
+    "China": {
+      "pop": 13.9,
+      "aff": 122.1,
+      "ei": -23.0,
+      "ci": -13.0
+    }
+  },
+  "co2_per_capita_2024_t": {
+    "Pakistan": 0.83,
+    "China": 8.74,
+    "India": 2.19,
+    "Bangladesh": 0.6,
+    "World": 4.74
+  },
+  "decoupling": [
+    {
+      "country": "Pakistan",
+      "period": "1990–1995",
+      "elasticity": 0.8,
+      "state": "Weak decoupling"
+    },
+    {
+      "country": "Pakistan",
+      "period": "1995–2000",
+      "elasticity": 1.12,
+      "state": "Expansive coupling"
+    },
+    {
+      "country": "Pakistan",
+      "period": "2000–2005",
+      "elasticity": 0.6,
+      "state": "Weak decoupling"
+    },
+    {
+      "country": "Pakistan",
+      "period": "2005–2010",
+      "elasticity": 0.41,
+      "state": "Weak decoupling"
+    },
+    {
+      "country": "Pakistan",
+      "period": "2010–2015",
+      "elasticity": -0.12,
+      "state": "Strong decoupling"
+    },
+    {
+      "country": "Pakistan",
+      "period": "2015–2020",
+      "elasticity": 3.68,
+      "state": "Expansive negative decoupling"
+    },
+    {
+      "country": "Pakistan",
+      "period": "2020–2022",
+      "elasticity": -1.67,
+      "state": "Strong decoupling"
+    },
+    {
+      "country": "China",
+      "period": "1990–1995",
+      "elasticity": 0.76,
+      "state": "Weak decoupling"
+    },
+    {
+      "country": "China",
+      "period": "1995–2000",
+      "elasticity": 0.32,
+      "state": "Weak decoupling"
+    },
+    {
+      "country": "China",
+      "period": "2000–2005",
+      "elasticity": 1.4,
+      "state": "Expansive negative decoupling"
+    },
+    {
+      "country": "China",
+      "period": "2005–2010",
+      "elasticity": 0.95,
+      "state": "Expansive coupling"
+    },
+    {
+      "country": "China",
+      "period": "2010–2015",
+      "elasticity": 0.33,
+      "state": "Weak decoupling"
+    },
+    {
+      "country": "China",
+      "period": "2015–2020",
+      "elasticity": 0.27,
+      "state": "Weak decoupling"
+    },
+    {
+      "country": "China",
+      "period": "2020–2022",
+      "elasticity": 0.8,
+      "state": "Weak decoupling"
+    }
+  ],
+  "pakistan_trend_rates_2010_22_%": {
+    "pop": 1.69,
+    "aff": 2.46,
+    "ei": -1.86,
+    "ci": 0.43
+  },
+  "pakistan_2035_Mt": {
+    "Trend (2010–22 rates continue)": 266.2,
+    "Efficiency push": 244.7,
+    "Efficiency + clean energy": 190.0
+  }
+}
